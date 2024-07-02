@@ -17,12 +17,12 @@ It also has a submit button that will trigger validation and present success or 
 
 ## To install
 
-`npm install https://github.com/pierrestudios/password-validate`
+`npm install https://github.com/gehupierre/password-validator`
 
 ## To use in React
 
 ```js
-import { PasswordField } from "@pierrestudios/password-validate";
+import { PasswordField } from "@gehupierre/password-validator";
 
 const args = {
   label: "Type your password",

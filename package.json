@@ -1,5 +1,5 @@
 {
-  "name": "@pierrestudios/password-validate",
+  "name": "@gehupierre/password-validator",
   "version": "1.0.0",
   "description": "A component to create a password fields, validate and display an error",
   "main": "dist/cjs/index.js",
@@ -7,7 +7,7 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pierrestudios/password-validate"
+    "url": "https://github.com/gehupierre/password-validator"
   },
   "files": [
     "dist"
